@@ -36,14 +36,20 @@ https://github.com/Wipada6430205202/BSC_DPDM23/blob/main/Internet.ipynb
 * HW 1
 https://github.com/Wipada6430205202/BSC_DPDM23/blob/main/%E0%B8%AA%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87_Frequent_Patterns_(Association_Rules).ipynb
 * HW 2
-  [HW2_Decision tree.pdf](https://github.com/Wipada6430205202/BSC_DPDM23/files/14670572/HW2_Decision.tree.pdf)
+
+   [HW2_Decision tree.pdf](https://github.com/Wipada6430205202/BSC_DPDM23/files/14670572/HW2_Decision.tree.pdf)
 * HW 3
+
   [HW3.pdf](https://github.com/Wipada6430205202/BSC_DPDM23/files/14670631/HW3.pdf)
 * HW 4
+
   [Decision tree classifier HW4  Min_weight_fraction_leaf.pdf](https://github.com/Wipada6430205202/BSC_DPDM23/files/14670624/Decision.tree.classifier.HW4.Min_weight_fraction_leaf.pdf)
 
 * HW 5
+  
 [HW 5.pdf](https://github.com/Wipada6430205202/BSC_DPDM23/files/14670588/HW.5.pdf)
+
+
 
  
 
