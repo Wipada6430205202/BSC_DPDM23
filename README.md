@@ -34,7 +34,7 @@ https://github.com/Wipada6430205202/BSC_DPDM23/blob/main/Internet.ipynb
 
 # HW
 * HW 1
-  https://github.com/Wipada6430205202/BSC_DPDM23/commit/2e70f970a45fae64e27fe3931a9caf662e6cce17
+https://github.com/Wipada6430205202/BSC_DPDM23/blob/main/%E0%B8%AA%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87_Frequent_Patterns_(Association_Rules).ipynb
 * HW 2
   
 * HW 3
