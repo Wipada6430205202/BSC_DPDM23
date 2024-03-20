@@ -21,23 +21,30 @@ https://github.com/Wipada6430205202/BSC_DPDM23/blob/main/Internet.ipynb
 
 | members |
 |----------|
-นายปิยพัทธ์     ปานะถึก    | 643020507-4 
-นางสาวพัณณิตา ทองบ่อ     | 643020508-2  
-นางสาวพิมชนก  วงศ์สายเชื้อ   |643020510-5  
-นายภูริศ         เครือชารี    | 643020514-7  
-นางสาววิภาดา   ห่วงสูงเนิน    | 643020520-2 
-นางสาวสิรภัทร   ไชยมาตย์   | 643020523-6 
-นางสาวหทัยชนก สรวงชัยภูมิ  | 643020525-2 
-นายอาฤญช์      จรูญรักษ์    | 643020528-6  
-นายธนพร        ก้านกิ่ง     | 643021264-9  
-นางสาวจินดาพร  โพธิ์ภูมี     | 643021262-3  
+นายปิยพัทธ์     ปานะถึก    643020507-4 
+นางสาวพัณณิตา ทองบ่อ     643020508-2  
+นางสาวพิมชนก  วงศ์สายเชื้อ  643020510-5  
+นายภูริศ         เครือชารี   643020514-7  
+นางสาววิภาดา   ห่วงสูงเนิน   643020520-2 
+นางสาวสิรภัทร   ไชยมาตย์   643020523-6 
+นางสาวหทัยชนก สรวงชัยภูมิ   643020525-2 
+นายอาฤญช์      จรูญรักษ์   643020528-6  
+นายธนพร        ก้านกิ่ง    643021264-9  
+นางสาวจินดาพร  โพธิ์ภูมี     643021262-3  
 
 # HW
 * HW 1
 https://github.com/Wipada6430205202/BSC_DPDM23/blob/main/%E0%B8%AA%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87_Frequent_Patterns_(Association_Rules).ipynb
 * HW 2
-  
+  [HW2_Decision tree.pdf](https://github.com/Wipada6430205202/BSC_DPDM23/files/14670572/HW2_Decision.tree.pdf)
 * HW 3
+  [HW3.pdf](https://github.com/Wipada6430205202/BSC_DPDM23/files/14670631/HW3.pdf)
 * HW 4
+  [Decision tree classifier HW4  Min_weight_fraction_leaf.pdf](https://github.com/Wipada6430205202/BSC_DPDM23/files/14670624/Decision.tree.classifier.HW4.Min_weight_fraction_leaf.pdf)
+
 * HW 5
+[HW 5.pdf](https://github.com/Wipada6430205202/BSC_DPDM23/files/14670588/HW.5.pdf)
+
+ 
+
   
