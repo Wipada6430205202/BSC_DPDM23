@@ -31,4 +31,13 @@ https://github.com/Wipada6430205202/BSC_DPDM23/blob/main/Internet.ipynb
 นายอาฤญช์      จรูญรักษ์     643020528-6  
 นายธนพร        ก้านกิ่ง      643021264-9  
 นางสาวจินดาพร  โพธิ์ภูมี      643021262-3  
-|                                   |
+
+# HW
+* HW 1
+  https://github.com/Wipada6430205202/BSC_DPDM23/commit/2e70f970a45fae64e27fe3931a9caf662e6cce17
+* HW 2
+  
+* HW 3
+* HW 4
+* HW 5
+  
