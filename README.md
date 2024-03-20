@@ -47,7 +47,7 @@ https://github.com/Wipada6430205202/BSC_DPDM23/blob/main/%E0%B8%AA%E0%B8%B3%E0%B
 
 * HW 5
   
-[HW 5.pdf](https://github.com/Wipada6430205202/BSC_DPDM23/files/14670588/HW.5.pdf)
+   [HW 5.pdf](https://github.com/Wipada6430205202/BSC_DPDM23/files/14670588/HW.5.pdf)
 
 
 
